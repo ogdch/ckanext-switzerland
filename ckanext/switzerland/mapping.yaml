@@ -2,6 +2,7 @@ CSV:
   - 'csv'
   - 'text (.csv)'
   - 'comma ...'
+  - 'Comma separated text (.csv)'
 GeoJSON:
   - 'geojson'
 GeoTIFF:
